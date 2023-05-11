@@ -1,12 +1,13 @@
 h1 {
-    color: rgb(255, 33, 181);
+    color: rgb(95, 223, 212);
+    background-color: rgb(38, 114, 255);
     font-family:cursive }
 
-h2 { color:rgb(255, 196, 0)}
+h2 { color:rgb(56, 5, 5)}
 
 li {
     list-style-type: square;
-    color: royalblue }
+    color: rgb(24, 224, 124) }
 
 .special{
     color: rgb(98, 0, 255);
@@ -15,6 +16,16 @@ dd {
     color: blueviolet;
     font-size: 120%;
     font-family:Arial, Helvetica, sans-serif;}
- 
+
+span.firme {
+    color: brown;
+    font-size: 150%;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+
 /*creacion de tabla de opciones
 
