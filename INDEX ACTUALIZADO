@@ -4,26 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DANKO RESCURE</title>
+    <title>DanKO RESCUE</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="http://4.bp.blogspot.com/-F3SQJ1wp-RQ/UJxlwSTOUcI/AAAAAAAAChs/4u-Vz7_iNdE/s1600/169.bmp">
   </head>
 <body>
-    <center><h1>Nos preocupamos por tus mascotas</h1></center>
-      <div align="center"><img src="image/5.jpg"></div>
+    <center><h1>DanKO RESCUE</h1></center>
 
   <div class="menu">
     <nav>
     <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">Informacion</a></li>
-      <li><a href="#">Galeria</a></li>
+      <li><a href="home.html">Home</a></li>
+      <li><a href="info.html">Informacion</a></li>
+      <li><a href="galery.html">Galeria</a></li>
     </ul>
     </nav></div>
-      <p><dd>
-      Danko Rescue nace de una idea como portafolio para la creacion de un pagina web
+
+    <section>
+      <img src="image/5.jpg">
+      <dd> DanKO Rescue nace de una idea como portafolio para la creacion de un pagina web
       de esta manera se empiezan agregar contenido para del desarrollo de el mismo.
-      </dd></p>
+      </dd></section>
 
       <dd>Nos encargamos del diagnostico y cuidado de tus mascotas, le damos
         el cuidado y respeto que ellos merecen, sometiendolo al menor estres posible
