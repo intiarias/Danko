@@ -67,7 +67,7 @@
   </form>
 
     <p>Raza
-  <select name="menu">
+  <select name="raza">
     <option value="0">...</option>
     <option value="1">Mestizo</option>
     <option value="2">Poodle </option>
@@ -81,10 +81,6 @@
     <option value="10">Otro</option>
   </select></p>
   <BUtton>ENVIAR</BUtton>
-
-
-
-
 
 </body>
 </html>
