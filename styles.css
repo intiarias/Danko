@@ -9,24 +9,33 @@ li {
     list-style-type: square;
     color: rgb(24, 224, 124) }
 
+.menu{
+    background-color: aliceblue;
+    border: solid 1px #ddd;
+    border-radius: 6px;
+    padding: 15px;
+}
+.menu li{
+    list-style-type: none;
+    border-bottom: solid 1px;
+    padding: 10px;
+}
+
 .special{
     color: rgb(98, 0, 255);
     font-size: 150%;}
+    
 dd {
     color: blueviolet;
     font-size: 120%;
-    font-family:Arial, Helvetica, sans-serif;}
+    }
 
 span.firme {
     color: brown;
     font-size: 150%;
 }
-.menu {
-    display: flex;
-    justify-content: space-between;
-}
-
 section img{
+    width: 180px;
     float: left;
     margin: 0px 10px;
 }
